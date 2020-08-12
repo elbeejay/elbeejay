@@ -1,5 +1,7 @@
 Hi I'm Jay. Currently stumbling through the world of open-source.
 
+
+#### Recent Activity:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com//passaH2O/dorado/pull/4) in [passaH2O/dorado](https://github.com//passaH2O/dorado)
 2. 💪 Opened PR [#24](https://github.com//jonschwenk/RivGraph/pull/24) in [jonschwenk/RivGraph](https://github.com//jonschwenk/RivGraph)
