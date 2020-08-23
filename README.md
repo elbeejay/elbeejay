@@ -1,11 +1,11 @@
-Hi I'm Jay. Currently stumbling through the world of open-source.
+I joined Github **8** years ago.
 
+Since then I've pushed **882** commits, opened **24** issues, submitted **55** pull requests, and contributed to **15** public repositories.
 
-#### Recent Activity:
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//elbeejay/meshing-with-landlab/pull/1) in [elbeejay/meshing-with-landlab](https://github.com//elbeejay/meshing-with-landlab)
-2. 💪 Opened PR [#1](https://github.com//elbeejay/meshing-with-landlab/pull/1) in [elbeejay/meshing-with-landlab](https://github.com//elbeejay/meshing-with-landlab)
-3. 💪 Opened PR [#88](https://github.com//DeltaRCM/pyDeltaRCM/pull/88) in [DeltaRCM/pyDeltaRCM](https://github.com//DeltaRCM/pyDeltaRCM)
-4. 🎉 Merged PR [#20](https://github.com//espin-2020/CoastalTeam/pull/20) in [espin-2020/CoastalTeam](https://github.com//espin-2020/CoastalTeam)
-5. 🗣 Commented on [#20](https://github.com//espin-2020/CoastalTeam/issues/20) in [espin-2020/CoastalTeam](https://github.com//espin-2020/CoastalTeam)
-<!--END_SECTION:activity-->
+Most used languages across my projects:
+
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B199%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B10.7%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.1%25)
+
+<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
