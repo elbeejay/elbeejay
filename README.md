@@ -1,3 +1,3 @@
 Hi I'm Jay, I joined Github **10** years ago.
 
-Since then I've pushed **1751** commits, opened **70** issues, submitted **183** pull requests, and contributed to **16** public repositories.
+Since then I've pushed **1751** commits, opened **72** issues, submitted **183** pull requests, and contributed to **16** public repositories.
